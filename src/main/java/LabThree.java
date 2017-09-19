@@ -32,7 +32,7 @@ public class LabThree {
         //System.out.println(wordCount);
         //System.out.println("type your word here: ");
         //Scanner yourWord = new Scanner(System.in);
-        int wordCount = 0;
+        int wordCount = 0;//
         int index = 0;
         for (int n = 0; n<Content1.length(); n++) {
             if(Content1.charAt(n) == ' ') {
