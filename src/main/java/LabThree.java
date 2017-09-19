@@ -46,8 +46,8 @@ public class LabThree {
             }
 
         }
-        System.out.println(index + "prince(s) in the text");
-        System.out.println(wordCount + "words in the text");
+        System.out.println(index + " prince(s) in the text");
+        System.out.println(wordCount + " words in the text");
 
 
         }
